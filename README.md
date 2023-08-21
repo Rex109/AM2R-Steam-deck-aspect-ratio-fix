@@ -6,8 +6,8 @@ A mod for AM2R to modify the aspect ratio to 16:10, useful for Steam Deck player
 
 
 # Download and installation
-To download the pre-compiled mod you can grab the latest version in the [Releases Page](https://github.com/Rex109/AM2R-Steam-deck-aspect-ratio-fix/releases)
-To install the mod open up AM2RLauncher, navigate to the mod settings tab and click on "Add new mod" then select the downloaded .zip file
+To download the pre-compiled mod you can grab the latest version in the [Releases Page](https://github.com/Rex109/AM2R-Steam-deck-aspect-ratio-fix/releases).
+To install the mod open up AM2RLauncher, navigate to the mod settings tab and click on "Add new mod" then select the downloaded .zip file.
 
 # Manual compiling
 ## Requirements 
