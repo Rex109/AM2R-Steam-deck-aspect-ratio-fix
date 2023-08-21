@@ -16,3 +16,7 @@ To install the mod open up AM2RLauncher, navigate to the mod settings tab and cl
 ## Procedure
 Open up your community patch data.win/data.unx with UndertaleModTool, navigate to Scripts > Resource repackers > ImportGML and select the Export_Code folder, save the file.
 Zip up your entire game folder (except profile.xml) and open up Atomic, fill up the informations and select your .zip depending on your platform and export the compiled mod.
+
+## Pull requests and issues
+If you have any suggestions i encourage you to open a pull request, same goes for issues: do not hesitate to open one if you encounter a problem.
+For further support you can contact me directly in my personal discord server linked on top of the page.
