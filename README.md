@@ -1,6 +1,9 @@
 [![Discord](https://img.shields.io/discord/953653773962739793?color=%237289DA&label=Discord&logo=discord&logoColor=%23FFFFFF)](https://discord.gg/QDYk75vBBk)
 # AM2R Steam deck aspect ratio fix
-A mod for AM2R to modify the aspect ratio to 16:10, useful for Steam Deck players.
+A mod for AM2R to modify the aspect ratio to 16:10, useful for Steam Deck players to prevent stretching/black bars.
+
+![banner](https://github.com/Rex109/AM2R-Steam-deck-aspect-ratio-fix/assets/8615649/c0d54241-4b31-4843-adc1-548648857eea)
+
 
 # Download and installation
 To download the pre-compiled mod you can grab the latest version in the [Releases Page](https://github.com/Rex109/AM2R-Steam-deck-aspect-ratio-fix/releases)
